@@ -3,6 +3,10 @@ starter project created with spring boot and vue.js
 
 You can use this project as a starter for your next spring boot and vue.js application.
 
+build & run
+
+`mvn clean install && mvn --projects backend spring-boot:run`
+
 I have added some basic functionalities and their tests;
 
 - Create category
