@@ -1,13 +1,23 @@
 # shopservice
-starter project created with spring boot and vue.js
+Starter project created with spring boot and vue.js
 
 You can use this project as a starter for your next spring boot and vue.js application.
 
-build & run
+### Tech stack:
+- [Spring Boot](!https://spring.io/projects/spring-boot) and [H2](!http://www.h2database.com/html/main.html)
+- [Vue.js](!https://vuejs.org/)
+- [BootstrapVue](!https://bootstrap-vue.js.org) 
+- [Webpack](!https://webpack.js.org/)
+
+Build & Run
 
 `mvn clean install && mvn --projects backend spring-boot:run`
 
-I have added some basic functionalities and their tests;
+You can also deploy frontend module in dev mode
+
+`npm run dev`
+
+#### Features (with unit & integration tests)
 
 - Create category
 - Create Item
