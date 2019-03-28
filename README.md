@@ -4,7 +4,8 @@ Starter project created with spring boot and vue.js
 You can use this project as a starter for your next spring boot and vue.js application.
 
 ### Tech stack:
-- [Spring Boot](https://spring.io/projects/spring-boot){:target="_blank"}
+<a href="http://example.com/" target="_blank">example</a>
+- [Spring Boot](https://spring.io/projects/spring-boot target="_blank)
 - [Vue.js](https://vuejs.org/)
 - [BootstrapVue](https://bootstrap-vue.js.org) 
 - [Webpack](https://webpack.js.org/)
