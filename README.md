@@ -4,10 +4,10 @@ Starter project created with spring boot and vue.js
 You can use this project as a starter for your next spring boot and vue.js application.
 
 ### Tech stack:
-- [Spring Boot](!https://spring.io/projects/spring-boot) and [H2](!http://www.h2database.com/html/main.html)
-- [Vue.js](!https://vuejs.org/)
-- [BootstrapVue](!https://bootstrap-vue.js.org) 
-- [Webpack](!https://webpack.js.org/)
+- [Spring Boot](https://spring.io/projects/spring-boot) and [H2](!http://www.h2database.com/html/main.html)
+- [Vue.js](https://vuejs.org/)
+- [BootstrapVue](https://bootstrap-vue.js.org) 
+- [Webpack](https://webpack.js.org/)
 
 Build & Run
 
